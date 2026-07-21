@@ -69,6 +69,12 @@ This project demonstrates the complete dashboard development process, including 
 
 ---
 
+📝 Notes
+
+- Estimated Profit was calculated using MSRP and Selling Price due to the absence of a Cost/Profit field in the dataset.
+
+---
+
 ## ✨ Dashboard Features
 
 - Interactive KPI Cards
