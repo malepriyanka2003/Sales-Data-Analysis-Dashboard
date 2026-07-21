@@ -104,25 +104,25 @@ Sales Sample Dataset (CSV)
 
 ### 📍 Executive Overview
 
-![Executive Overview](01_sales Executive overview.png)
+![Executive Overview](01_sales_executive_overview.png)
 
 ---
 
 ### 📍 Sales Performance
 
-![Sales Performance](02_Sales performance.png)
+![Sales Performance](02_sales_performance.png)
 
 ---
 
 ### 📍 Customer Analysis
 
-![Customer Analysis](03_Customer performance.png)
+![Customer Analysis](03_customer_performance.png)
 
 ---
 
 ### 📍 Product Analysis
 
-![Product Analysis](04_product performance.png)
+![Product Analysis](04_product_performance.png)
 
 ---
 
